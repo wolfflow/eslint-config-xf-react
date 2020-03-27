@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xf-react",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Eslint config for React apps",
   "license": "MIT",
   "files": [
